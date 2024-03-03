@@ -5,6 +5,9 @@
 # Prerequisites
 *.d
 
+# Diretório de compilação
+Linguagem C/bin/
+
 # Object files
 *.o
 *.ko
