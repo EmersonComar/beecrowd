@@ -6,7 +6,10 @@
 *.d
 
 # Diretório de compilação
-Linguagem C/bin/
+*/bin/
+
+#vscode
+*.vscode/*
 
 # Object files
 *.o
